@@ -4,9 +4,7 @@
 
 - Active Directory Home Lab
 <h2> 📄 Certifications</h2>  
-<h2> 🤳 Connect with me:</h2>
-
-[linkedin]: (https://www.linkedin.com/in/goeragebanglo/?trk=opento_sprofile_topcard)
+<h2> 🤳 Connect with me:</h2> [linkedin]: (https://www.linkedin.com/in/goeragebanglo/?trk=opento_sprofile_topcard)
 
 
 - 🔭 I’m currently working on ...
